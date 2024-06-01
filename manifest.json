@@ -1,7 +1,7 @@
 {
 	"name": "Tr3nch Loader",
 	"short_name": "Tr3nch",
-	"description": "Loader for the Tr3nch exploit",
+	"description": "A loader for the Tr3nch exploit, which is a exploit.",
 	"version": "1.0.0",
 	"manifest_version": 2,
 	"permissions": [
